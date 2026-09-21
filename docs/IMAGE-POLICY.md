@@ -1,15 +1,17 @@
-# Image Policy — V2
+# Image Policy — V3
 
-Every product/category photograph is locally stored and mapped explicitly.
+Images are photography/visual assets only.
 
-### Forbidden inside photographs
-- Product names
-- Prices
-- Ratings/stars
-- Buttons
-- Hearts
-- Badges
-- Website UI
-- Promotional copy
+They contain no:
+- product names
+- prices
+- ratings
+- stars
+- hearts
+- buttons
+- badges
+- navigation
+- headings
+- promotional copy
 
-V2 removes the previous promotional banner photographs because those source images contained baked-in text. Promotional messaging is now rendered as HTML/CSS outside photography.
+All of those elements are HTML/CSS in the website UI.
