@@ -3,120 +3,108 @@
     "slug": "nova-pro-standing-desk",
     "name": "Nova Pro Standing Desk",
     "category": "Desks",
-    "price": 599,
-    "image": "https://images.unsplash.com/photo-1623177623442-979c1e42c255?auto=format&fit=crop&fm=jpg&q=82&w=1200",
-    "description": "Electric height-adjustable desk with a refined wood top and stable dual-motor frame.",
-    "rating": 4.9,
-    "reviews": 124
+    "price": 799.0,
+    "reviews": 128,
+    "description": "Electric sit-stand desk with a warm wood surface and dual-motor height adjustment.",
+    "image": "assets/images/products/nova-pro-standing-desk.jpg"
   },
   {
     "slug": "ergomax-premium-chair",
     "name": "ErgoMax Premium Chair",
     "category": "Chairs",
-    "price": 349,
-    "image": "https://images.unsplash.com/photo-1782080163196-26ed8ea266d7?auto=format&fit=crop&fm=jpg&q=82&w=1200",
+    "price": 349.0,
+    "reviews": 96,
     "description": "Breathable ergonomic chair with adaptive lumbar support and adjustable armrests.",
-    "rating": 4.8,
-    "reviews": 89
+    "image": "assets/images/products/ergomax-premium-chair.jpg"
   },
   {
     "slug": "flexiview-monitor-arm",
     "name": "FlexiView Monitor Arm",
     "category": "Monitor Arms",
-    "price": 129,
-    "image": "https://images.unsplash.com/photo-1729327741417-d6f34dcaea66?auto=format&fit=crop&fm=jpg&q=82&w=1200",
-    "description": "Gas-spring monitor arm for a clean, flexible and comfortable viewing position.",
-    "rating": 4.7,
-    "reviews": 67
+    "price": 149.0,
+    "reviews": 74,
+    "description": "Dual-display articulated monitor mount with a sturdy clamp and VESA support.",
+    "image": "assets/images/products/flexiview-monitor-arm.jpg"
   },
   {
     "slug": "luma-led-desk-lamp",
     "name": "Luma LED Desk Lamp",
     "category": "Lighting",
-    "price": 89,
-    "image": "https://images.unsplash.com/photo-1786522635292-be2231d46eaf?auto=format&fit=crop&fm=jpg&q=82&w=1200",
-    "description": "Minimal LED task lamp with directional light and a refined aluminum profile.",
-    "rating": 4.9,
-    "reviews": 112
+    "price": 89.0,
+    "reviews": 112,
+    "description": "Slim LED task lighting with a precise directional profile and touch controls.",
+    "image": "assets/images/products/luma-led-desk-lamp.jpg"
+  },
+  {
+    "slug": "zenpro-headphones",
+    "name": "ZenPro Wireless Headphones",
+    "category": "Accessories",
+    "price": 199.0,
+    "reviews": 58,
+    "description": "Over-ear wireless headphones with plush cushions and a focused listening profile.",
+    "image": "assets/images/products/zenpro-headphones.jpg"
   },
   {
     "slug": "core-storage-drawer",
-    "name": "Core Storage Drawer",
+    "name": "Core Mobile Storage",
     "category": "Storage",
-    "price": 199,
-    "image": "https://images.unsplash.com/photo-1781106743595-1a2c6397e812?auto=format&fit=crop&fm=jpg&q=82&w=1200",
-    "description": "Compact rolling storage with soft-close drawers for a cleaner workspace.",
-    "rating": 4.6,
-    "reviews": 48
+    "price": 229.0,
+    "reviews": 45,
+    "description": "Compact rolling storage cabinet with four drawers and lockable casters.",
+    "image": "assets/images/products/core-storage-drawer.jpg"
+  },
+  {
+    "slug": "arc-keyboard-mouse",
+    "name": "Arc Keyboard & Mouse Set",
+    "category": "Tech Gear",
+    "price": 79.0,
+    "reviews": 83,
+    "description": "Low-profile wireless keyboard and precision mouse for a cleaner desktop.",
+    "image": "assets/images/products/desk-keyboard-mouse.jpg"
+  },
+  {
+    "slug": "flex-laptop-stand",
+    "name": "Flex Laptop Stand",
+    "category": "Tech Gear",
+    "price": 69.0,
+    "reviews": 67,
+    "description": "Adjustable aluminum laptop stand with ventilated platform and folding supports.",
+    "image": "assets/images/products/flex-laptop-stand.jpg"
+  },
+  {
+    "slug": "verde-desk-plant",
+    "name": "Verde Desk Plant",
+    "category": "Decor",
+    "price": 34.0,
+    "reviews": 41,
+    "description": "Low-maintenance greenery selected to bring a calm finish to the workspace.",
+    "image": "assets/images/products/desk-plant.jpg"
+  },
+  {
+    "slug": "gridwall-organizer",
+    "name": "GridWall Desk Organizer",
+    "category": "Storage",
+    "price": 59.0,
+    "reviews": 52,
+    "description": "Modular pegboard organizer for pens, scissors, cables and everyday tools.",
+    "image": "assets/images/products/pegboard-organizer.jpg"
+  },
+  {
+    "slug": "halo-monitor-light",
+    "name": "Halo Monitor Light",
+    "category": "Lighting",
+    "price": 109.0,
+    "reviews": 39,
+    "description": "Slim monitor-mounted light bar for focused, glare-conscious desktop illumination.",
+    "image": "assets/images/products/monitor-light-bar.jpg"
   },
   {
     "slug": "nova-desk-mat",
     "name": "Nova Desk Mat",
     "category": "Accessories",
-    "price": 39,
-    "image": "https://images.unsplash.com/photo-1776762249712-430700fed7a3?auto=format&fit=crop&fm=jpg&q=82&w=1200",
+    "price": 39.0,
+    "reviews": 91,
     "description": "Premium desk mat designed to protect surfaces while keeping the setup visually clean.",
-    "rating": 4.8,
-    "reviews": 91
-  },
-  {
-    "slug": "atlas-executive-desk",
-    "name": "Atlas Executive Desk",
-    "category": "Desks",
-    "price": 749,
-    "image": "https://images.unsplash.com/photo-1679312995136-4bfc25c1936f?auto=format&fit=crop&fm=jpg&q=82&w=1200",
-    "description": "A spacious executive workspace with cable-conscious construction and premium finishes.",
-    "rating": 4.8,
-    "reviews": 56
-  },
-  {
-    "slug": "airmesh-task-chair",
-    "name": "AirMesh Task Chair",
-    "category": "Chairs",
-    "price": 279,
-    "image": "https://images.unsplash.com/photo-1591924239053-412d64f344f4?auto=format&fit=crop&fm=jpg&q=82&w=1200",
-    "description": "Lightweight mesh seating with adjustable lumbar and recline controls.",
-    "rating": 4.7,
-    "reviews": 74
-  },
-  {
-    "slug": "arc-monitor-stand",
-    "name": "Arc Monitor Stand",
-    "category": "Monitor Arms",
-    "price": 79,
-    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&fm=jpg&q=82&w=1200",
-    "description": "Compact monitor support that opens up desk space and improves eye level.",
-    "rating": 4.6,
-    "reviews": 42
-  },
-  {
-    "slug": "halo-worklight",
-    "name": "Halo Worklight",
-    "category": "Lighting",
-    "price": 119,
-    "image": "https://images.unsplash.com/photo-1780140765084-88e4e0d75528?auto=format&fit=crop&fm=jpg&q=82&w=1200",
-    "description": "Wide-beam workspace light with a soft, glare-controlled profile.",
-    "rating": 4.9,
-    "reviews": 83
-  },
-  {
-    "slug": "modular-caddy",
-    "name": "Modular Desk Caddy",
-    "category": "Accessories",
-    "price": 49,
-    "image": "https://images.unsplash.com/photo-1782012505157-aca188bd6921?auto=format&fit=crop&fm=jpg&q=82&w=1200",
-    "description": "A modular organizer for everyday desk tools and small accessories.",
-    "rating": 4.7,
-    "reviews": 39
-  },
-  {
-    "slug": "core-mobile-pedestal",
-    "name": "Core Mobile Pedestal",
-    "category": "Storage",
-    "price": 229,
-    "image": "https://images.unsplash.com/photo-1506233166564-37ae224e467f?auto=format&fit=crop&fm=jpg&q=82&w=1200",
-    "description": "Mobile drawer pedestal for documents, peripherals and workspace essentials.",
-    "rating": 4.8,
-    "reviews": 51
+    "image": "assets/images/products/nova-desk-mat-v2.jpg"
   }
 ]
