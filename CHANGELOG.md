@@ -1,9 +1,9 @@
 # NOVA DESK Changelog
 
-## V3 — Image Cleanup
-- Corrected the vertical crop of every product image.
-- Removed the "Featured Products" heading from product photographs.
-- Removed embedded wishlist hearts from product photographs.
-- Corrected category crops to remove the dark strip and category names.
-- Kept all interface text outside the image files.
-- All image references remain local and deterministic.
+## V4 — Clean Image System
+- Replaced all category artwork with clean local product photography.
+- Category cards now reuse deterministic, product-only assets instead of cropped website screenshots.
+- Every category image uses one uniform background color.
+- Product cards use a larger image area with padding to prevent clipping and visual overlap.
+- Removed remaining badge styling and image/UI ambiguity.
+- All imagery remains local; no external image URLs.

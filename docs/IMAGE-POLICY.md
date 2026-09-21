@@ -1,17 +1,18 @@
-# Image Policy — V3
+# Image Policy — V4
 
-Images are photography/visual assets only.
+The website never uses screenshots of a webpage as product/category imagery.
 
-They contain no:
-- product names
-- prices
-- ratings
-- stars
-- hearts
-- buttons
-- badges
-- navigation
-- headings
-- promotional copy
+Every image shown in a product or category card:
+- is a local image asset
+- contains only the product
+- has one uniform background
+- has no product name
+- has no price
+- has no rating
+- has no stars
+- has no heart
+- has no button
+- has no badge
+- has no navigation or promotional text
 
-All of those elements are HTML/CSS in the website UI.
+All interface content is rendered by HTML/CSS outside the photograph.
