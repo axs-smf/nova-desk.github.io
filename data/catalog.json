@@ -4,7 +4,7 @@
     "name": "Nova Pro Standing Desk",
     "category": "Desks",
     "price": 599,
-    "image": "nova-pro-standing-desk.jpg",
+    "image": "https://images.unsplash.com/photo-1623177623442-979c1e42c255?auto=format&fit=crop&fm=jpg&q=82&w=1200",
     "description": "Electric height-adjustable desk with a refined wood top and stable dual-motor frame.",
     "rating": 4.9,
     "reviews": 124
@@ -14,7 +14,7 @@
     "name": "ErgoMax Premium Chair",
     "category": "Chairs",
     "price": 349,
-    "image": "ergomax-premium-chair.jpg",
+    "image": "https://images.unsplash.com/photo-1782080163196-26ed8ea266d7?auto=format&fit=crop&fm=jpg&q=82&w=1200",
     "description": "Breathable ergonomic chair with adaptive lumbar support and adjustable armrests.",
     "rating": 4.8,
     "reviews": 89
@@ -24,7 +24,7 @@
     "name": "FlexiView Monitor Arm",
     "category": "Monitor Arms",
     "price": 129,
-    "image": "flexiview-monitor-arm.jpg",
+    "image": "https://images.unsplash.com/photo-1729327741417-d6f34dcaea66?auto=format&fit=crop&fm=jpg&q=82&w=1200",
     "description": "Gas-spring monitor arm for a clean, flexible and comfortable viewing position.",
     "rating": 4.7,
     "reviews": 67
@@ -34,7 +34,7 @@
     "name": "Luma LED Desk Lamp",
     "category": "Lighting",
     "price": 89,
-    "image": "luma-led-desk-lamp.jpg",
+    "image": "https://images.unsplash.com/photo-1786522635292-be2231d46eaf?auto=format&fit=crop&fm=jpg&q=82&w=1200",
     "description": "Minimal LED task lamp with directional light and a refined aluminum profile.",
     "rating": 4.9,
     "reviews": 112
@@ -44,7 +44,7 @@
     "name": "Core Storage Drawer",
     "category": "Storage",
     "price": 199,
-    "image": "core-storage-drawer.jpg",
+    "image": "https://images.unsplash.com/photo-1781106743595-1a2c6397e812?auto=format&fit=crop&fm=jpg&q=82&w=1200",
     "description": "Compact rolling storage with soft-close drawers for a cleaner workspace.",
     "rating": 4.6,
     "reviews": 48
@@ -54,7 +54,7 @@
     "name": "Nova Desk Mat",
     "category": "Accessories",
     "price": 39,
-    "image": "nova-desk-mat.jpg",
+    "image": "https://images.unsplash.com/photo-1776762249712-430700fed7a3?auto=format&fit=crop&fm=jpg&q=82&w=1200",
     "description": "Premium desk mat designed to protect surfaces while keeping the setup visually clean.",
     "rating": 4.8,
     "reviews": 91
@@ -64,7 +64,7 @@
     "name": "Atlas Executive Desk",
     "category": "Desks",
     "price": 749,
-    "image": "nova-pro-standing-desk.jpg",
+    "image": "https://images.unsplash.com/photo-1679312995136-4bfc25c1936f?auto=format&fit=crop&fm=jpg&q=82&w=1200",
     "description": "A spacious executive workspace with cable-conscious construction and premium finishes.",
     "rating": 4.8,
     "reviews": 56
@@ -74,7 +74,7 @@
     "name": "AirMesh Task Chair",
     "category": "Chairs",
     "price": 279,
-    "image": "ergomax-premium-chair.jpg",
+    "image": "https://images.unsplash.com/photo-1591924239053-412d64f344f4?auto=format&fit=crop&fm=jpg&q=82&w=1200",
     "description": "Lightweight mesh seating with adjustable lumbar and recline controls.",
     "rating": 4.7,
     "reviews": 74
@@ -84,7 +84,7 @@
     "name": "Arc Monitor Stand",
     "category": "Monitor Arms",
     "price": 79,
-    "image": "flexiview-monitor-arm.jpg",
+    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&fm=jpg&q=82&w=1200",
     "description": "Compact monitor support that opens up desk space and improves eye level.",
     "rating": 4.6,
     "reviews": 42
@@ -94,7 +94,7 @@
     "name": "Halo Worklight",
     "category": "Lighting",
     "price": 119,
-    "image": "luma-led-desk-lamp.jpg",
+    "image": "https://images.unsplash.com/photo-1780140765084-88e4e0d75528?auto=format&fit=crop&fm=jpg&q=82&w=1200",
     "description": "Wide-beam workspace light with a soft, glare-controlled profile.",
     "rating": 4.9,
     "reviews": 83
@@ -104,7 +104,7 @@
     "name": "Modular Desk Caddy",
     "category": "Accessories",
     "price": 49,
-    "image": "nova-desk-mat.jpg",
+    "image": "https://images.unsplash.com/photo-1782012505157-aca188bd6921?auto=format&fit=crop&fm=jpg&q=82&w=1200",
     "description": "A modular organizer for everyday desk tools and small accessories.",
     "rating": 4.7,
     "reviews": 39
@@ -114,7 +114,7 @@
     "name": "Core Mobile Pedestal",
     "category": "Storage",
     "price": 229,
-    "image": "core-storage-drawer.jpg",
+    "image": "https://images.unsplash.com/photo-1506233166564-37ae224e467f?auto=format&fit=crop&fm=jpg&q=82&w=1200",
     "description": "Mobile drawer pedestal for documents, peripherals and workspace essentials.",
     "rating": 4.8,
     "reviews": 51
